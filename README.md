@@ -20,6 +20,12 @@ I built this webapp using a basic LAMP stack, Linux, Apache, MySQL, and PHP. I b
 
 ==============================================================================================
 
+#### [Multilayer Perceptron numpy Implementation](https://github.com/jude253/multilayer-perceptron/blob/main/MLP.ipynb)
+
+This is a project I did as a Machine Learning Student at Cornell where I had to implement a neural network from scratch using NumPy. I learned the mechanics of the Relu activation function and how that leads to 'kinks' or 'hinges' in the linear approximatin of the data.  I know there are other activations funvtions as well such as the sigmoid function too.
+
+==============================================================================================
+
 - 🔭 I’m currently working on creating a Google Chrome Extension
 - 🌱 I’m currently learning devops and networking things!
 - 👯 I’m looking to collaborate on a machine learning project 
