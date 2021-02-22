@@ -26,7 +26,13 @@ This is a project I did as a Machine Learning Student at Cornell where I had to 
 
 ==============================================================================================
 
-- 🔭 I’m currently working on creating a Google Chrome Extension
+#### [textalysis.io - Google Chrome Text Analysis Extension](https://github.com/jude253/textalysis.io-Chrome-Extension)
+
+I created a google chrome extension that analyzes text in a similar manner to the text analysis classifier on my webpage.  It tells the user what highlighted text sounds like in terms of the tone, gender and age of the author.  I use the same RESTful API endpoint that I created for my personal webpage to do the analysis for this extension.  I simply send over the highlighted text to the endpoint, then parse and display the response.  I submitted this extension to the Google Chrome Webstore, and I hope they approve it so people can use this!
+
+==============================================================================================
+
+- 🔭 I’m currently working on fine tuning my text analysis classifiers.
 - 🌱 I’m currently learning devops and networking things!
 - 👯 I’m looking to collaborate on a machine learning project 
 - 🤔 I’m looking for help with devops and networking things!
