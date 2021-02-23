@@ -34,7 +34,8 @@ I created a google chrome extension that analyzes text in a similar manner to th
 
 #### [Topic Modeling using Word Embeddings and Random Forest Classifiers](https://github.com/jude253/Topic-Modeling-with-Word-Embeddings)
 
-This notebook is a place to try out topic modeling and classification. I trained Word Embeddings with Word2Vec and used an ensemble of Random Forests Classifiers to classify the data. The reason it was necessary to use several Random Forest Classifiers is because the data set has multi label data, that samples may have more than one label. The dataset I am using is of research paper titles and abstracts and they fall into one or more of 5 categories: 'Computer Science', 'Physics', 'Mathematics', 'Statistics', 'Quantitative Biology', or 'Quantitative Finance'.
+This notebook is a place to try out topic modeling and classification. I trained Word Embeddings with Word2Vec and used an ensemble of Random Forests Classifiers to classify the data. The reason it was necessary to use several Random Forest Classifiers is because the data set has multi label data, that samples may have more than one label. The dataset I am using is of research paper titles and abstracts and they fall into one or more of 5 categories: 'Computer Science', 'Physics', 'Mathematics', 'Statistics', 'Quantitative Biology', or 'Quantitative Finance'.  The data set can be found [here](https://www.kaggle.com/blessondensil294/topic-modeling-for-research-articles).
+
 
 ==============================================================================================
 
